@@ -1,4 +1,4 @@
-Code for Actviate Miami Polygon Workshop - Build your own full stack dApp!
+Say GM Guestbook dApp
 
 ## Getting Started
 
